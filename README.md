@@ -11,5 +11,5 @@ Materi di pertemuan kedelapan dan kesembilan yaitu <strong>Custom View</strong>
 ## Video Demonstrasi
 
 Link Video : 
-- Edit Text with Clear Button : [Sedang di Render](https://github.com/MNRosyad/PrakPAPB8)
+- Edit Text with Clear Button : [Google Drive](https://drive.google.com/file/d/1QZEzzFxdzSqzeO4qJ12nY94fc-u0IRwY/view?usp=sharing)
 - Custom View (Fan Control) : [Sedang di Render](https://github.com/MNRosyad/PrakPAPB8)
