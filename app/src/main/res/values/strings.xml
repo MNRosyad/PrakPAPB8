@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomView</string>
+
+    <string name="hint_ET">Input Text</string>
+    <string name="fan_control">Fan Control</string>
+
+    <string name="goTo_DialView">Custom Dial View</string>
+    <string name="goTo_EditText">Custom Edit Text</string>
+    <string name="btnChange">Change the Language</string>
+</resources>
